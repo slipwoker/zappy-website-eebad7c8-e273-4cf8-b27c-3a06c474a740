@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Step back in time with iconic Israeli commercials from Bamba, Tnuva, Osem &amp; more. Famous TV commercials that shaped a generation — feel the nostalgia now.
+
+### Archive Categories
+https://example.com/archive
+Explore our curated archive of popular TV commercials organized by drinks, snacks, and iconic Israeli brands. Every category is a trip down memory lane waiting for you.
+
+### Video Collection
+https://example.com/videos
+Stream the most famous TV commercials in Israeli history — Tempo, Crystal soda, Osem &amp; beyond. Our video collection brings your warmest childhood memories back to screen.
+
+### About
+https://example.com/about
+Discover why we built a home for Israel&#39;s most beloved classic advertisements. The past isn&#39;t just a memory — it&#39;s a feeling, and we exist to keep that feeling alive for you.
+
+### Contact
+https://example.com/contact
+Got a forgotten gem of a commercial we haven&#39;t featured yet? Reach out and help us grow the ultimate collection of popular TV commercials from Israel&#39;s golden advertising era.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
